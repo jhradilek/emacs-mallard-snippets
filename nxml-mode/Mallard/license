@@ -1,0 +1,7 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: license
+# key: license
+# --
+<license href="$1">
+	$0
+</license>

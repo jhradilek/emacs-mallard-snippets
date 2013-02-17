@@ -1,0 +1,7 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: page
+# key: page
+# --
+<page xmlns="http://projectmallard.org/1.0/" type="${1:topic}" id="$2">
+	$0
+</page>

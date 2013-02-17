@@ -1,0 +1,7 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: comment
+# key: comment
+# --
+<comment>
+	$0
+</comment>

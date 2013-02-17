@@ -1,0 +1,5 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: screen
+# key: screen
+# --
+<screen>$0</screen>

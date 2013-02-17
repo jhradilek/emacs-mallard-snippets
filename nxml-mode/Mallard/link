@@ -1,0 +1,5 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: link
+# key: link
+# --
+<link type="${1:topic}" xref="$0"/>

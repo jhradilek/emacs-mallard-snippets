@@ -1,0 +1,5 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: app
+# key: app
+# --
+<app>$0</app>
