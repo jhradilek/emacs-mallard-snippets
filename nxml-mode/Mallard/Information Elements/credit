@@ -1,0 +1,7 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <credit type="...">
+# key: credit
+# --
+<credit type="${1:author}">
+	$0
+</credit>

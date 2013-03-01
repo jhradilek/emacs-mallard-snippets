@@ -1,0 +1,5 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <output style="...">
+# key: output
+# --
+<output style="${1:error}">$0</output>

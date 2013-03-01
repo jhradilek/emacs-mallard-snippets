@@ -1,0 +1,7 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <note style="...">
+# key: note
+# --
+<note style="${1:advanced}">
+	$0
+</note>

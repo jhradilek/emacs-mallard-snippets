@@ -1,0 +1,7 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <tree style="...">
+# key: tree
+# --
+<tree style="${1:lines}">
+	$0
+</tree>

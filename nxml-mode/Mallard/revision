@@ -1,5 +1,0 @@
-# contributor: Jaromir Hradilek <jhradilek@gmail.com>
-# name: revision
-# key: revision
-# --
-<revision version="$1" date="${2:`(format-time-string "%Y-%m-%d")`}" status="${3:final}"/>$0

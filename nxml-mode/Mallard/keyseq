@@ -1,5 +1,0 @@
-# contributor: Jaromir Hradilek <jhradilek@gmail.com>
-# name: keyseq
-# key: keyseq
-# --
-<keyseq type="${1:combo}">$0</keyseq>

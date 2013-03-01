@@ -1,0 +1,5 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <revision pkgversion="..." version="..." date="..." status="..." />
+# key: revision
+# --
+<revision pkgversion="${1:0.1}" version="${2:0.1}" date="${3:`(format-time-string "%Y-%m-%d")`}" status="${4:stub}" />$0

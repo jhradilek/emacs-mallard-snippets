@@ -1,0 +1,7 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <list type="...">
+# key: list
+# --
+<list type="${1:numbered}">
+	$0
+</list>

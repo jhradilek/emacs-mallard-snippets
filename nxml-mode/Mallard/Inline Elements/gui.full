@@ -1,0 +1,5 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <gui style="...">
+# key: gui
+# --
+<gui style="${1:button}">$0</gui>

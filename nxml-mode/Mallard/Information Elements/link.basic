@@ -1,0 +1,5 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <link type="..." xref="..." />
+# key: link
+# --
+<link type="${1:guide}" xref="${2:index}" />$0

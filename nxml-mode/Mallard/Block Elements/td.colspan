@@ -1,0 +1,5 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <td colspan="...">
+# key: td
+# --
+<td colspan="${1:2}">$0</td>

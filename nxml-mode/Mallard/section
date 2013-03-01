@@ -1,7 +1,0 @@
-# contributor: Jaromir Hradilek <jhradilek@gmail.com>
-# name: section
-# key: section
-# --
-<section id="$1">
-	$0
-</section>

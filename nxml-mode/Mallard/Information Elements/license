@@ -1,0 +1,7 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <license href="...">
+# key: license
+# --
+<license href="${1:http://creativecommons.org/licenses/by-sa/3.0/}">
+	$0
+</license>

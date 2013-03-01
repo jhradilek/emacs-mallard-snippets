@@ -1,7 +1,0 @@
-# contributor: Jaromir Hradilek <jhradilek@gmail.com>
-# name: table
-# key: table
-# --
-<table frame="${1:all}" rules="${2:all}" shade="${3:none}">
-	$0
-</table>

@@ -1,0 +1,5 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <cite date="...">
+# key: cite
+# --
+<cite date="${1:`(format-time-string "%Y-%m-%d")`}">$0</cite>

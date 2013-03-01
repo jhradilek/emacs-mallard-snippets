@@ -1,0 +1,5 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <revision version="..." date="..." status="..." />
+# key: revision
+# --
+<revision version="${1:0.1}" date="${2:`(format-time-string "%Y-%m-%d")`}" status="${3:stub}" />$0
