@@ -1,18 +1,16 @@
-# Emacs Snippets
+# Emacs Snippets for Mallard
 
 ## Description
 
-The **emacs-snippets** repository provides a collection of code snippets for **Emacs**. In particular, it provides snippets for the following major modes and languages:
-
-*  **nxml-mode/Mallard** — Snippets for the Mallard XML language according to [Mallard 1.0 DRAFT (as of 2013-02-11)](http://projectmallard.org/1.0/index.html).
+The **emacs-mallard-snippets** repository provides Emacs snippets for the Mallard XML language according to [Mallard 1.0 DRAFT](http://projectmallard.org/1.0/index.html) as of 11 February 2013.
 
 ## Installation
 
 **Important:** A working installation of the **YASnippet** template system for Emacs is required for these snippets to work. Refer to the [YASnippet repository](https://github.com/capitaomorte/yasnippet) for information on how to install, configure, and use it.
 
-To install snippets for a particular mode, change into the directory with your local copy of this repository, and copy the directory named after the selected Emacs mode into the directory you configured for snippets. For example, to install the snippets for the **nxml-mode** to the **~/.emacs.d/snippets/** directory, type:
+To install the snippets, change to the directory with your local copy of this repository and copy the **snippets/nxml-mode/** directory into the directory you configured for snippets. For example, to install the snippets to the **~/.emacs.d/snippets/** directory, type:
 
-    cp -R nxml-mode ~/.emacs.d/snippets/
+    cp -R snippets/nxml-mode/ ~/.emacs.d/snippets/
 
 To load the snippets in Emacs, use the following Emacs command:
 
