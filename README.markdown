@@ -8,7 +8,23 @@ The **emacs-mallard-snippets** repository provides Emacs snippets for the Mallar
 
 **Important:** A working installation of the **YASnippet** template system for Emacs is required for these snippets to work. Refer to the [YASnippet repository](https://github.com/capitaomorte/yasnippet) for information on how to install, configure, and use it.
 
-To install the snippets, change to the directory with your local copy of this repository and copy the **snippets/nxml-mode/** directory into the directory you configured for snippets. For example, to install the snippets to the **~/.emacs.d/snippets/** directory, type:
+### Installing the Snippets Using package.el
+
+To install the snippets by using the package.el package manager for Emacs, add the following lines to your **~/.emacs.d/init.el** to enable the Milkypostman's Emacs Lisp Package Archive (MELPA) repository:
+
+    (require 'package)
+    (add-to-list 'package-archives
+                 '("melpa" . "http://melpa.milkbox.net/packages/") t)
+    (package-initialize)
+
+Then run the following Emacs commands to install the **mallard-snippets** package:
+
+    M-x package-refresh-contents
+    M-x package-install mallard-snippets
+
+### Installing the Snippets Manually
+
+To install the snippets manually, change to the directory with your local copy of this repository and copy the **snippets/nxml-mode/** directory into the directory you configured for snippets. For example, to install the snippets to the **~/.emacs.d/snippets/** directory, type:
 
     cp -R snippets/nxml-mode/ ~/.emacs.d/snippets/
 
