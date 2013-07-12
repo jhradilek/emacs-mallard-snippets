@@ -1,4 +1,4 @@
-# Emacs Snippets for Mallard
+# Mallard Snippets for Emacs
 
 ## Description
 
@@ -14,13 +14,15 @@ To install the snippets by using the package.el package manager for Emacs, add t
 
     (require 'package)
     (add-to-list 'package-archives
-                 '("melpa" . "http://melpa.milkbox.net/packages/") t)
+                 '("melpa" . "http://melpa.milkbox.net/packages/"))
     (package-initialize)
 
 Then run the following Emacs commands to install the **mallard-snippets** package:
 
     M-x package-refresh-contents
     M-x package-install mallard-snippets
+
+Refer to the [GNU Emacs manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/Packages.html) for more information on how to download, install, update, and uninstall packages in this editor.
 
 ### Installing the Snippets Manually
 
