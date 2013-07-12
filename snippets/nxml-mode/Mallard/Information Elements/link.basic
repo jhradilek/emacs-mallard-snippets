@@ -2,4 +2,4 @@
 # name: <link type="..." xref="..." />
 # key: link
 # --
-<link type="${1:guide}" xref="${2:index}" />$0
+<link type="${1:guide}" xref="${2:index}"/>$0

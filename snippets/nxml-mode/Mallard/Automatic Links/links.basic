@@ -2,4 +2,4 @@
 # name: <links type="..." />
 # key: links
 # --
-<links type="${1:topic}" />
+<links type="${1:topic}"/>

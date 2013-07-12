@@ -2,4 +2,4 @@
 # name: <link xref="..." />
 # key: link
 # --
-<link xref="$1" />$0
+<link xref="$1"/>$0
