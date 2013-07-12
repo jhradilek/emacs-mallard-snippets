@@ -2,6 +2,9 @@
 # name: <page type="..." style="..." id="...">
 # key: page
 # --
-<page xmlns="http://projectmallard.org/1.0/" type="${1:topic}" style="$2" id="$3">
+<page xmlns="http://projectmallard.org/1.0/"
+      type="${1:topic}"
+      style="$2"
+      id="$3">
 	$0
 </page>
