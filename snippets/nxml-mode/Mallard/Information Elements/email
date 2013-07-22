@@ -2,4 +2,4 @@
 # name: <email>
 # key: email
 # --
-<email>$0</email>
+<email>${1:`user-mail-address`}</email>
