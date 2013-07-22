@@ -370,6 +370,7 @@ To expand a snippet, type the corresponding keyword and press the trigger key (t
 
 ## See Also
 
+* [jhradilek/emacs-mallard-mode](https://github.com/jhradilek/emacs-mallard-mode) — A major mode for editing Mallard files.
 * [jhradilek/emacs-docbook-snippets](https://github.com/jhradilek/emacs-docbook-snippets) — A complete set of snippets for the DocBook 4.5 XML language.
 
 ## Copyright

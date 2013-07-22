@@ -3,10 +3,14 @@
 ;; Copyright (C) 2013 Jaromir Hradilek
 
 ;; Author: Jaromir Hradilek <jhradilek@gmail.com>
-;; Keywords: snippets
+;; URL: https://github.com/jhradilek/emacs-mallard-snippets
+;; Keywords: snippets Mallard
+
 ;; Package-Requires: ((yasnippet "0.8.0"))
 
 ;; Based on the clojure-snippets.el file by Max Penet.
+
+;; This file is NOT part of GNU Emacs.
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
