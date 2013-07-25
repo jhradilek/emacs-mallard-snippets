@@ -6,7 +6,7 @@
 ;; URL: https://github.com/jhradilek/emacs-mallard-snippets
 ;; Keywords: snippets Mallard
 
-;; Package-Requires: ((yasnippet "0.8.0"))
+;; Package-Requires: ((yasnippet "0.8.0") (mallard-mode "0.1.1"))
 
 ;; Based on the clojure-snippets.el file by Max Penet.
 
