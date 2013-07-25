@@ -45,7 +45,11 @@ Before using the snippets, make sure that you have the **YASnippet** template sy
     (require 'yasnippet)
     (yas-global-mode 1)
 
-Also make sure that you are using the **nxml-mode**. To enable it for the current buffer, use the following Emacs command:
+Also make sure that you are using **mallard-mode**. To enable it for the current buffer, use the following Emacs command:
+
+    M-x mallard-mode
+
+Note that if you performed manual installation and decided to install the snippets for **nxml-mode**, use the following Emacs command instead:
 
     M-x nxml-mode
 
