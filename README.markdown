@@ -28,7 +28,11 @@ Refer to the [GNU Emacs manual](http://www.gnu.org/software/emacs/manual/html_no
 
 To install the snippets manually, change to the directory with your local copy of this repository and copy the **snippets/nxml-mode/** directory into the directory you configured for snippets. For example, to install the snippets to the **~/.emacs.d/snippets/** directory, type:
 
-    cp -R snippets/nxml-mode/ ~/.emacs.d/snippets/
+    cp -R snippets/mallard-mode/ ~/.emacs.d/snippets/
+
+This installs the snippets for **mallard-mode**. If you do not have this major mode installed and do not want it, install these snippets in the **nxml-mode** directory instead. For example:
+
+    cp -R snippets/mallard-mode/ ~/.emacs.d/snippets/nxml-mode/
 
 To load the snippets in Emacs, use the following Emacs command:
 
