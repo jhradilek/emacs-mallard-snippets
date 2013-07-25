@@ -2,7 +2,7 @@
 
 ## Description
 
-The **emacs-mallard-snippets** repository provides Emacs snippets for the Mallard XML language according to [Mallard 1.0 DRAFT](http://projectmallard.org/1.0/index.html) as of 11 February 2013.
+The **emacs-mallard-snippets** repository provides Emacs snippets for the Mallard XML language according to the [Mallard 1.0](http://projectmallard.org/1.0/index.html) specification.
 
 ## Installation
 
