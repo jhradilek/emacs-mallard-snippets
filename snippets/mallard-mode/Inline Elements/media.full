@@ -1,0 +1,5 @@
+# contributor: Jaromir Hradilek <jhradilek@gmail.com>
+# name: <media type="..." mime="..." src="..." width="..." height="..." />
+# key: media
+# --
+<media type="${1:image}" mime="${2:image/png}" src="$3" width="${4:400}" height="${5:300}"/>$0
