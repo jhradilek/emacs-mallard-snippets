@@ -220,7 +220,15 @@ To expand a snippet, type the corresponding keyword and press the trigger key (t
   </tr>
   <tr>
     <td><strong>media</strong></td>
+    <td><code>&lt;media type="..." mime="..." src="..." width="..." height="..."&gt;...&lt;/media&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>media</strong></td>
     <td><code>&lt;media type="..." mime="..." src="..." /&gt;</code></td>
+  </tr>
+  <tr>
+    <td><strong>media</strong></td>
+    <td><code>&lt;media type="..." mime="..." src="..." width="..." height="..." /&gt;</code></td>
   </tr>
   <tr>
     <td><strong>name</strong></td>
